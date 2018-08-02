@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/JonathanRezende/Node-Backend-Default/issues"
   },
-  "homepage": "https://github.com/JonathanRezende/Node-Backend-Default#readme"
+  "homepage": "https://github.com/JonathanRezende/Node-Backend-Default#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "config": "^2.0.1",
+    "debug": "^3.1.0",
+    "express": "^4.16.3",
+    "nodemon": "^1.18.3"
+  }
 }
